@@ -1,5 +1,5 @@
-### Kafka consumer basic template
+### Kafka producer basic template
 
-Very basic kafka consumer implemented with Spring Cloud Streams using functional programming style
+Very basic kafka producer implemented with Spring Cloud Streams using functional programming style
 
 
